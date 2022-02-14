@@ -6,7 +6,7 @@
     "component": "ConditionLayoutProduct",
     "composition": "children",
     "content": {
-      "$ref": "app:vtex.condition-layout#/definitions/ConditionLayoutProduct"
+      "$ref": "app:dacris.condition-layout#/definitions/ConditionLayoutProduct"
     }
   },
   "condition-layout.binding": {
