@@ -6,7 +6,7 @@
     "component": "ConditionLayoutProduct",
     "composition": "children",
     "content": {
-      "$ref": "app:dacris.condition-layout#/definitions/ConditionLayoutProduct"
+      "$ref": "app:dacrisb2c.condition-layout#/definitions/ConditionLayoutProduct"
     }
   },
   "condition-layout.binding": {
